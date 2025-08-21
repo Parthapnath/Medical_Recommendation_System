@@ -22,3 +22,5 @@ The system is designed with an **interactive web interface** for real-time predi
 
 ---
 
+https://github.com/user-attachments/assets/0f8f37f0-a834-4f9e-ac80-3045a80e68f4
+
