@@ -1,45 +1,24 @@
-🏥 Medical Recommendation System (MRS)
+# 🏥 Medical Recommendation System
 
-A smart Medical Recommendation System built using Machine Learning and Flask that analyzes symptoms or input data and predicts suitable medical advice. It uses a Kaggle dataset for training and provides a user-friendly web interface.
+A **Machine Learning-powered web application** built using **Flask** and **Scikit-learn** that predicts possible diseases based on user-input symptoms.  
+The system is designed with an **interactive web interface** for real-time predictions, making healthcare recommendations more accessible.
 
-🚀 Features
+---
 
-✅ Predicts disease based on input symptoms
+## 🚀 Features
+- Predicts diseases from user-input symptoms with high accuracy.
+- Built using **classification algorithms** trained on a Kaggle medical dataset.
+- Interactive and responsive web interface designed with **HTML & CSS**.
+- Backend powered by **Flask**, ensuring fast and real-time predictions.
+- End-to-end deployment workflow using **PyCharm** with seamless integration of Python ML models.
 
-✅ Trained on real-world Kaggle dataset
+---
 
-✅ Machine Learning integration using Scikit-learn
+## 🧑‍💻 Tech Stack
+- **Languages & Libraries:** Python, NumPy, Pandas, Scikit-learn, Pickle  
+- **Frameworks & Tools:** Flask, Jupyter Notebook, PyCharm  
+- **Frontend:** HTML, CSS  
+- **Dataset:** Kaggle (Medical Dataset)  
 
-✅ Web UI with HTML and CSS
+---
 
-✅ API integration with Flask backend
-
-✅ User-friendly interaction through browser interface
-
-🛠️ Tech Stack
-
-💻 Tools & Platforms
-
-PyCharm
-
-Jupyter Notebook
-
-Kaggle Dataset
-
-🧠 Machine Learning Libraries
-
-Scikit-learn
-
-Pandas
-
-NumPy
-
-🌐 Frontend
-
-HTML
-
-CSS
-
-🔙 Backend
-
-Flask
